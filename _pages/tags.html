@@ -15,10 +15,11 @@ permalink: /tags/
     <li ><a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
   {% endunless %}{% endfor %}
   </ul>
+  <hr>
 <!--cycles through tag list and creates subheader for each tag name...-->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+  <h4 id="{{ this_word | cgi_escape }}">{{ this_word }}</h4>
 <!--  lists all posts corresponding to specific tag...-->
     {% for post in site.tags[this_word] %}{% if post.title != null %}
     <div class="tag-list">
