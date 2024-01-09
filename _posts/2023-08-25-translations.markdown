@@ -7,13 +7,26 @@ img: post-1.jpg # Add image post (optional)
 tags: [Blog, Translation]
 author: # Add name author (optional)
 ---
-Translations for OVD-Info
-> • Providing precise Russian-English translations on official documents, working with editors to publish long-form interviews and legal digests.
+> Translations for OVD-Info
+Providing precise Russian-English translations on official documents, working with editors to publish long-form interviews and legal digests.
 [Recent work](https://en.ovdinfo.org/chagina)
 
-Translations for Helpdesk.media
-> • Translating Russian-English, working with an editor to publish stories for a global audience on social media. Providing legal and cultural context research to ensure quality journalism and accessibility.
-Example work: 
+> Translations for Helpdesk.media
+Translating Russian-English, working with an editor to publish stories for a global audience on social media. Providing legal and cultural context research to ensure quality journalism and accessibility. Here are some example stories:
+
+[A resident of Bucha spent a month under occupation](https://www.instagram.com/p/Ckqvwyar19l/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
+[How a world champion powerlifter saves animals and people](https://www.instagram.com/p/Cl9ERvQt1b4/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
+[A Russian artist covers houses with anti-war murals](https://www.instagram.com/p/CnOzy7qrGS_/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
+[A painter from St. Petersburg goes out on anti-war pickets](https://www.instagram.com/p/Co-sMy1rROM/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
+[A chapter from Katerina Gordeeva's book about Mariupol](https://www.instagram.com/p/C1zp_-ar1TP/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
+> 
+> 
+> 
 
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
