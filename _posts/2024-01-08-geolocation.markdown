@@ -43,9 +43,9 @@ In the northwest corner, we have the road going north-south and a lake with some
 Probably not our location. 
 
 The southern-most road crosses a river with a lot more green. Maybe that's our spot?
-If we zoom in there... <img src="{{site.baseurl}}/assets/img/osint challenge 1/kiffa google maps_zoominsouth.png" width="80%">
+<img src="{{site.baseurl}}/assets/img/osint challenge 1/kiffa google maps_zoominsouth.png" width="80%">
 
-it looks promising: <img src="{{site.baseurl}}/assets/img/osint challenge 1/trees and hotel.png" width="80%">
+If we zoom in there...it looks promising: <img src="{{site.baseurl}}/assets/img/osint challenge 1/trees and hotel.png" width="80%">
 
 There's even a hotel which might fit with our photographer talking about "newcomers". 
 
