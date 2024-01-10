@@ -55,6 +55,6 @@ a paved road with low buildings a bit further away from the road, telephone pole
 One final check, this image was taken 11/26/2010 so just to make sure all this still looked the same in 2013, we can look at the next time this place was imaged (7/19/2013) and verify the buildings and trees are still there:
 ![kiffa googleearth]({{site.baseurl}}/assets/img/osint challenge 1/kiffa final loc_verify date.png).
 
-> Thanks to Sofia for a fun exercise and the video walkthrough! Hopefully the person taking this photo isn't too weirded out by random people all over the world geolocating their 11-year-old twitter post :) 
+> Thanks to Sofia for a fun exercise and the video walkthrough! Hopefully the photographer isn't too weirded out by random people all over the world geolocating their 11-year-old twitter post :) 
 
 
