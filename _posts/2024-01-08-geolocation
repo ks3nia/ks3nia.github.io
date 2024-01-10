@@ -17,11 +17,12 @@ We want to find the coordinates of where this photo was taken. Now, assuming the
 1. This was taken in the city of Kiffa
 2. It's translated from Arabic, so maybe that can give us a clue to narrow down the country
 3. This was taken in the morning, on February 20th, 2013, posted in the afternoon
-4. The person taking the photo is a "newcomer"
+4. The person taking the photo is talking about "newcomers" or visitors to the city
 5. There's a paved road, some one story buildings, and lots of trees. 
 
-First things first, let's google Kiffa. Looks like a city in Mauritania in Northwest Africa!
-![Kiffa]({{site.baseurl}}/assets/img/osint challenge 1/kiffa google maps_zoomout.png)
+First things first, let's google Kiffa. Looks like a city in Mauritania in Northwest Africa:
+<img src="{{site.baseurl}}/assets/img/osint challenge 1/kiffa google maps_zoomout.png" width="100" height="100">
+
 This looks like a pretty small city so let's zoom in some more: 
 ![Kiffa zoom]({{site.baseurl}}/assets/img/osint challenge 1/kiffa google maps.png)
 Arabic is the official language so seems like we're in the right place. 
@@ -36,7 +37,7 @@ In the northwest corner, we have the road going north-south and a lake with some
 ![not enough trees]({{site.baseurl}}/assets/img/osint challenge 1/not enough trees.png). Probably not our location. 
 
 The southern-most road crosses a river with a lot more green. Maybe that's our spot?
-If we zoom in there![more trees]({{site.baseurl}}/assets/img/osint challenge 1/kiffa google maps_zoominsouth.png), it looks promising: ![more trees]({{site.baseurl}}/assets/img/osint challenge 1/trees and hotel.png). There's even a hotel which might fit with our photographer being a "newcomer". 
+If we zoom in there![more trees]({{site.baseurl}}/assets/img/osint challenge 1/kiffa google maps_zoominsouth.png), it looks promising: ![more trees]({{site.baseurl}}/assets/img/osint challenge 1/trees and hotel.png). There's even a hotel which might fit with our photographer talking about "newcomers". 
 
 Since there's no streetview, I switched to GoogleEarth to verify the location. Here, I can rotate the whole map so that I'm facing south like the photographer: 
 ![kiffa googleearth]({{site.baseurl}}/assets/img/osint challenge 1/kiffa north south roads.png). Since this photo was taken in 2013, I can also play around with historical satelite images.
