@@ -25,6 +25,7 @@ Let's do a reverse google image search to take a look:
 Great! This is the Flinders Street railway station in Melbourne, Australia. Easy-peasy. 
 
 Since the original photo is a bit blurry, I checked out a higher resolution photo of this same location here (thanks Janice S): 
+
 <img src="{{site.baseurl}}/assets/img/osint challenge 2/google reverse2.png" width="80%">
 <img src="{{site.baseurl}}/assets/img/osint challenge 2/high res photo.png" width="80%">
 
