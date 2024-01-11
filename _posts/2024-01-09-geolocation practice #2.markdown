@@ -24,15 +24,14 @@ Let's do a reverse google image search to take a look:
 
 Great! This is the Flinders Street railway station in Melbourne, Australia. Easy-peasy. 
 
-Since the original photo is a bit blurry, I checked out a higher resolution photo of this same location here: <img src="{{site.baseurl}}/assets/img/osint challenge 2/google reverse2.png" width="80%">
-Where I found this (thanks Janice S) <img src="{{site.baseurl}}/assets/img/osint challenge 2/high res photo.png" width="80%">
+Since the original photo is a bit blurry, I checked out a higher resolution photo of this same location here (thanks Janice S): <img src="{{site.baseurl}}/assets/img/osint challenge 2/google reverse2.png" width="80%">
+<img src="{{site.baseurl}}/assets/img/osint challenge 2/high res photo.png" width="80%">
 
 So we have a white spire, the HWT building, IBM building, and a blue building that all look pretty tall. 
 
-Let's get to Australia: 
+Let's get to Melbourne, Australia: 
 <img src="{{site.baseurl}}/assets/img/osint challenge 2/australia.png" width="80%">
-
-Zooming into Melbourne: <img src="{{site.baseurl}}/assets/img/osint challenge 2/melbourne.png" width="80%">
+<img src="{{site.baseurl}}/assets/img/osint challenge 2/melbourne.png" width="80%">
 
 Using streeview, I can plop down onto the platform of this train station to take a look:
 <img src="{{site.baseurl}}/assets/img/osint challenge 2/photosphere1.png" width="80%">
@@ -47,6 +46,7 @@ And yep, those are our buildings: <img src="{{site.baseurl}}/assets/img/osint ch
 Now, this part got a little tricky, since some structures are behind and some in front of other buildings. For instance, you can't see the white spire in that viewpoint so it's probably behind the other buildings. 
 
 If we look top-down: 
+
 <img src="{{site.baseurl}}/assets/img/osint challenge 2/buildings.png" width="80%">
 
 Here are our structures of interest. Left to right, we have tan round theater building (too short to be seen in the original photo), right behind it is the white spire of the Arts Center. Next to the theater, we have the white Quay West Suites, then the two hexagonal copper-colored buildings (one of which is labeled IBM Australia), and then the tan Langham hotel in front. Lastly, the blue building seems to be further behind these ones but let's check the heights of these first. 
