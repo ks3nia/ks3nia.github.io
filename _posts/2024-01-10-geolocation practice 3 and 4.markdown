@@ -7,7 +7,7 @@ img: post-6.jpg # Add image post (optional)
 tags: [Blog, trying stuff out]
 author: # Add name author (optional)
 ---
-I'm going to try another walkthrough of a couple geolocation challenges by Sofia Santos [website here](https://gralhix.com/list-of-osint-exercises/). This time I'll go through challenge #3 and 4 since 3 didn't end up taking too long. 
+I'm going to try another walkthrough of a couple geolocation challenges by Sofia Santos ([website](https://gralhix.com/list-of-osint-exercises/).)This time I'll go through challenge #3 and 4 since 3 didn't end up taking too long. 
 
 > Challenge #3
 
@@ -24,6 +24,7 @@ First things first, let's do a reverse google image search:
 <img src="{{site.baseurl}}/assets/img/osint challenge 3/door.png" width="80%">
 
 Looks like this particular door is a common backdrop for meetings with other world leaders. A quick search through these results and I find this article with the same door and caption that says the meeting took place in Ankara:
+
 <img src="{{site.baseurl}}/assets/img/osint challenge 3/aljazeera article.png" width="80%">
 
 Now to find the building in Ankara. I did a basic search for the president of Turkey and the Presidential Complex in Ankara seems like a good place to hold state visits:
@@ -39,7 +40,6 @@ Ok back to that door. Looking through the photos on googlemaps, I find this (loo
 <img src="{{site.baseurl}}/assets/img/osint challenge 3/the door.png" width="80%">
 
 However, looking at googlemaps, the building is symmetrical and there are two entrances...so which door is it? 
-<img src="{{site.baseurl}}/assets/img/osint challenge 3/which door.png" width="80%">
 
 Again, scrolling through the photos, there are these two that show the different entrances:
 <img src="{{site.baseurl}}/assets/img/osint challenge 3/front entrance.png" width="80%">
@@ -53,8 +53,9 @@ Here is the original problem:
 ![original problem]({{site.baseurl}}/assets/img/osint challenge 4/challenge.png)
 This is a photo of a resort located on an island. We need to find out the name of the resort, the coordinates of the island, and the cardinal direction the camera was facing when the photo was taken.
 
-Reverse google image search gives us a couple clues (here I realized I went down a bit of a rabbit hole at first, looking at other folks' walkthrough's later, I had different search results, not sure why).
+Reverse google image search gives us a couple clues (I realized after looking at other folks' walkthroughs that I went down a bit of a rabbit hole at first. I had different search results, not sure why).
 <img src="{{site.baseurl}}/assets/img/osint challenge 4/reverse.png" width="80%">
+
 This brings up lots of similar looking islands and one resort, Tailana Island. Clicking on their website, it looks promising:
 <img src="{{site.baseurl}}/assets/img/osint challenge 4/resort.png" width="80%">
 <img src="{{site.baseurl}}/assets/img/osint challenge 4/address.png" width="80%">
@@ -64,6 +65,7 @@ I then switched to google earth pro to take a closer look and put myself in the 
 
 Let's go back to our google search results and maybe narrow down the lens:
 <img src="{{site.baseurl}}/assets/img/osint challenge 4/redo.png" width="80%">
+
 This time, the Oan Resort pops up and it's exactly the same photo on their website: 
 <img src="{{site.baseurl}}/assets/img/osint challenge 4/oan resort.png" width="80%">
 
