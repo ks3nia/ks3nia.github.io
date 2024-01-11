@@ -7,7 +7,7 @@ img: post-6.jpg # Add image post (optional)
 tags: [Blog, trying stuff out]
 author: # Add name author (optional)
 ---
-I'm going to try another walkthrough of a couple geolocation challenges by Sofia Santos ([website](https://gralhix.com/list-of-osint-exercises/).)This time I'll go through challenge #3 and 4 since 3 didn't end up taking too long. 
+I'm going to try another walkthrough of a couple geolocation challenges by Sofia Santos ([website](https://gralhix.com/list-of-osint-exercises/))This time I'll go through challenge #3 and 4 since 3 didn't end up taking too long. 
 
 > Challenge #3
 
@@ -29,9 +29,8 @@ Looks like this particular door is a common backdrop for meetings with other wor
 
 Now to find the building in Ankara. I did a basic search for the president of Turkey and the Presidential Complex in Ankara seems like a good place to hold state visits:
 <img src="{{site.baseurl}}/assets/img/osint challenge 3/residence.png" width="80%">
-<img src="{{site.baseurl}}/assets/img/osint challenge 3/presidential complex.png" width="80%">
 
-Switching over to googlemaps, there's no streetview for obvious reasons but lots of pictures to look through:
+Switching over to googlemaps for the presidential complex, there's no streetview for obvious reasons but lots of pictures to look through:
 
 <img src="{{site.baseurl}}/assets/img/osint challenge 3/googlemaps.png" width="80%">
 
@@ -57,8 +56,8 @@ Reverse google image search gives us a couple clues (I realized after looking at
 <img src="{{site.baseurl}}/assets/img/osint challenge 4/reverse.png" width="80%">
 
 This brings up lots of similar looking islands and one resort, Tailana Island. Clicking on their website, it looks promising:
+
 <img src="{{site.baseurl}}/assets/img/osint challenge 4/resort.png" width="80%">
-<img src="{{site.baseurl}}/assets/img/osint challenge 4/address.png" width="80%">
 
 I then switched to google earth pro to take a closer look and put myself in the same angle as the camera but even though the island looks similar, the islands in the background didn't seem quite right:
 <img src="{{site.baseurl}}/assets/img/osint challenge 4/not right island.png" width="80%">
