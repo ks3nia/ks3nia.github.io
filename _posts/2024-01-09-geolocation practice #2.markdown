@@ -51,7 +51,7 @@ If we look top-down:
 
 <img src="{{site.baseurl}}/assets/img/osint challenge 2/buildings.png" width="80%">
 
-Here are our structures of interest. Left to right, we have tan round theater building (too short to be seen in the original photo), right behind it is the white spire of the Arts Center. Next to the theater, we have the white Quay West Suites, then the two hexagonal copper-colored buildings (one of which is labeled IBM Australia), and then the tan Langham hotel in front. Lastly, the blue building seems to be further behind these ones but let's check the heights of these first. 
+Here are our structures of interest. Left to right in the viewpoint, we have tan round theater building (too short to be seen in the original photo), right behind it is the white spire of the Arts Center. Next to the theater, we have the white Quay West Suites, then the two hexagonal copper-colored buildings (one of which is labeled IBM Australia), and then the tan Langham hotel in front. Lastly, the blue building seems to be further behind these ones but let's check the heights of these first. 
 
 A quick google of the arts center spire gives us a wikipedia article with the height: 162 m (531 ft). Pretty tall. 
 The IBM and HWT buildings are side by side and the IBM building seems taller from the photo. A quick search gives us a website with the height of various skyscrapers: <img src="{{site.baseurl}}/assets/img/osint challenge 2/ibm building height.png" width="80%">
