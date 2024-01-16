@@ -22,13 +22,15 @@ Translating Russian-English, working with an editor to publish stories for a glo
 
 [A Russian artist covers houses with anti-war murals](https://www.instagram.com/p/CnOzy7qrGS_/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
 
+[A mobilized Russian soldier who left his unit](https://www.instagram.com/p/Cou8ergrfMK/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
 [A painter from St. Petersburg goes out on anti-war pickets](https://www.instagram.com/p/Co-sMy1rROM/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
 
-[A chapter from Katerina Gordeeva's book about Mariupol](https://www.instagram.com/p/C1zp_-ar1TP/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+[A sociological survey of Russian citizens for and against the war](https://www.instagram.com/p/Csd4tVloYwi/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
+[A Russian woman who used to support the war and is now against it](https://www.instagram.com/p/C04y3KWLRs8/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
+[A chapter from Katerina Gordeeva's book about a refugee from Mariupol](https://www.instagram.com/p/C1zp_-ar1TP/?igsh=MzRlODBiNWFlZA%3D%3D&img_index=1)
+
 
 > 
-> 
-> 
-
-
-# ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
